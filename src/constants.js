@@ -1,0 +1,11 @@
+const CW = 700, CH = 500;
+const SHIP_SIZE = 18;
+const BULLET_SPEED = 10;
+const BULLET_TTL = 55;
+const ASTEROID_SIZES = { large: 40, medium: 22, small: 12 };
+const ASTEROID_POINTS = { large: 20, medium: 50, small: 100 };
+const SHIP_ROTATION = 0.07;
+const SHIP_THRUST = 0.18;
+const SHIP_FRICTION = 0.98;
+const INVINCIBLE_TIME = 180;
+const SHOOT_COOLDOWN = 12;
